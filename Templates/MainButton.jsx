@@ -1,7 +1,7 @@
 import { Box, Typography } from "@mui/material";
 import React from "react";
 import { useTheme } from "@emotion/react";
-import styles from "@/styles/buttons.module.css";
+import styles from "@/Styles/buttons.module.css";
 
 const MainButton = ({ children }) => {
   const theme = useTheme();
