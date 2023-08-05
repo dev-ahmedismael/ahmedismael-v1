@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Meta Frontend Professional Certificate",
+    "url": "/images/certificates/frontend_certificate.png"
+  },
+  {
+    "id": 2,
+    "title": "Meta Backend Professional Certificate",
+    "url": "/images/certificates/backend_certificate.png"
+  },
+  {
+    "id": 3,
+    "title": "Programming with Javascript",
+    "url": "/images/certificates/programming_with_javascript.png"
+  },
+  {
+    "id": 4,
+    "title": "Programming in Python",
+    "url": "/images/certificates/programming_in_python.png"
+  },
+  {
+    "id": 5,
+    "title": "Advanced React",
+    "url": "/images/certificates/advanced_react.png"
+  },
+  { "id": 6, "title": "APIs", "url": "/images/certificates/apis.png" },
+  {
+    "id": 7,
+    "title": "Version Control",
+    "url": "/images/certificates/version_control.png"
+  },
+  {
+    "id": 8,
+    "title": "The Full Stack",
+    "url": "/images/certificates/the_fullstack.png"
+  }
+]

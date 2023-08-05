@@ -1,0 +1,21 @@
+@keyframes scroll {
+  from {
+    transform: translateX(0%);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+.scrollContainer {
+  overflow: hidden;
+}
+
+.scroll {
+  overflow: hidden;
+  white-space: nowrap;
+  animation: scroll 20s infinite linear;
+  display: flex;
+  justify-content: space-between;
+  width: fit-content;
+}

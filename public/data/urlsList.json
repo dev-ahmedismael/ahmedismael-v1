@@ -1,0 +1,7 @@
+{
+  "baseUrl": "http://localhost:8000",
+  "login": "http://localhost:8000/api/login",
+  "certificates": "http://localhost:8000/api/certificates",
+  "projects": "http://localhost:8000/api/projects",
+  "mails": "http://localhost:8000/api/mails"
+}

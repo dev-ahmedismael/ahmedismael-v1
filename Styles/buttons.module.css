@@ -1,0 +1,51 @@
+/* Main Button */
+.mainButton {
+  position: relative;
+  border-radius: 5px;
+  border: 2px solid #15a8d4;
+  background-color: #15a8d4;
+  color: #091b29;
+  text-align: center;
+  cursor: pointer;
+}
+.mainButtonLayer {
+  position: absolute;
+  border-radius: 5px;
+  top: 0;
+  left: 0;
+  background-color: #091b29;
+  color: #15a8d4;
+  width: 0;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.mainButton:hover .mainButtonLayer {
+  width: 100%;
+  transition: 0.3s all;
+}
+
+/* Secondary Button */
+.secondaryButton {
+  position: relative;
+  border-radius: 5px;
+  border: 2px solid #15a8d4;
+  background-color: #091b29;
+  color: #15a8d4;
+  text-align: center;
+  cursor: pointer;
+}
+.secondaryButtonLayer {
+  position: absolute;
+  border-radius: 0;
+  top: 0;
+  right: 0;
+  background-color: #15a8d4;
+  color: #091b29;
+  width: 0;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.secondaryButton:hover .secondaryButtonLayer {
+  width: 100%;
+  transition: 0.3s all;
+}

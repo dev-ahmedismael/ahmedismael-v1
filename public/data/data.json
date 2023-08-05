@@ -1,0 +1,43 @@
+{
+  "projects": [
+    {
+      "id": "project1",
+      "title": "Ahmed Ismael - Portfolio",
+      "description": "Simple Clock App",
+      "featured": false,
+      "category": "frontend projects",
+      "type": "js",
+      "img": "/images/projects/ahmedismael.jpeg",
+      "languages": "HTML,CSS and JavaScript",
+      "github": "https://github.com/ahmedmishmael/aclock",
+      "demo": "https://ahmedmishmael.github.io/aclock",
+      "params": "aclock"
+    },
+    {
+      "id": "project2",
+      "title": "ACalculator",
+      "description": "Calculator App",
+      "featured": false,
+      "category": "frontend projects",
+      "type": "js",
+      "img": "/images/projects/x.jpg",
+      "languages": "HTML,CSS and JavaScript",
+      "github": "https://github.com/ahmedmishmael/acalculator",
+      "demo": "https://ahmedmishmael.github.io/acalculator/",
+      "params": "acalculator"
+    },
+    {
+      "id": "project3",
+      "title": "ACurrency",
+      "description": "Currency Convertor App",
+      "featured": false,
+      "category": "frontend projects",
+      "type": "js",
+      "img": "/images/projects/x.jpg",
+      "languages": "HTML,CSS and JavaScript",
+      "github": "https://github.com/ahmedmishmael/acurrency",
+      "demo": "https://ahmedmishmael.github.io/acurrency/",
+      "params": "acurrency"
+    }
+  ]
+}

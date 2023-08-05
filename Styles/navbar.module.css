@@ -1,0 +1,19 @@
+@keyframes openNavMenu {
+  from {
+    height: 0;
+  }
+  to {
+    height: calc(100vh - 70px);
+  }
+}
+.navMenu {
+  position: absolute;
+  top: 70px;
+  left: 0;
+  height: calc(100vh - 70px);
+  width: 100vw;
+  background-color: #091b29;
+  z-index: 3;
+  animation: openNavMenu 0.3s;
+  overflow: hidden;
+}
