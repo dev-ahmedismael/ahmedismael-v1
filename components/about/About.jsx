@@ -3,7 +3,7 @@ import AnimatedAvatar from "@/Templates/AnimatedAvatar";
 import CVSection from "@/Templates/CVSection";
 import Section from "@/Templates/Section";
 import SectionTitle from "@/Templates/SectionTitle";
-import { Box, Container, Grid, Typography, useTheme } from "@mui/material";
+import { Box, Grid, Typography, useTheme } from "@mui/material";
 import Image from "next/image";
 import Link from "next/link";
 import React from "react";
